@@ -1,0 +1,109 @@
+Timestamp,Name,What gender do you identify as ?,Course in which you are enrolled ?,What is your subject combination ?,What was your percentage in class 10th ?,What was your percentage in class 12th ?,What was your performance in 1st semester ? [Math],What was your performance in 1st semester ? [Physics],What was your performance in 1st semester ? [Statistics],What was your performance in 1st semester ? [Computer Science ],What was your performance in 2nd semester ? [Math],What was your performance in 2nd semester ? [Physics],What was your performance in 2nd semester ? [Statistics],What was your performance in 2nd semester ? [Computer Science ],What is your current CGPA ?,How many hours do you study in 24 hours ?,What is your preferred time for studying ?,Where do you typically study ?,What study technique do you find most effective ?,How many hours do you sleep in 24 hours ?,Do you engage in regular physical exercise ?,Mode of exercise ,What is your weight in Kg ?,What is your height in cm?,How are you satisfied with your academic performance?,Specific area in which you want to improvement ?,Are you a Hostler ?,Place of residence 
+24/03/2024 21:16:14,Ashwani ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,5-6,Night,Hostel room,Online,7-8,No,No,63,168,3-4,CGPA,Yes,Rural
+25/03/2024 11:10:18,Deepak patel,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,4-5,Morning,Hostel room,Self study,7-8,Yes,Open Gym,57,170 cm,2-3,To reduce friend circle,Yes,Rural
+25/03/2024 11:21:58,Aditya Pandey,Male,B.Sc,PMS,80-90,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Online,7-8,No,Playground,54,172,3-4,Knowledge of subject,No,Rural
+25/03/2024 11:28:38,Piyush Agnihotri ,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,,,7-8,4-5,Night,others,Self study ,7-8,Yes,Room workout ,66,170,1-2,Brain storming ,No,Urban
+25/03/2024 12:03:09,Afzal Ansari ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,Pass,7-8,5-6,Night,Library,Online,7-8,No,Playground,62,174,3-4,Health,No,Rural
+25/03/2024 19:17:21,Animesh,Male,B.Sc,SMK,80-90,80-90,Pass,Back paper,Pass,Pass,Back Paper,Pass,Pass,Pass,8-9,6-7,Evening,Library,Books,6-7,Yes,Playground,60,170,3-4,Health,Yes,Urban
+25/03/2024 22:26:18,Vindeshwari prasad maurya ,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,7-above,Night,others,Online,5-6,Yes,Gym,61,156,1-2,CGPA,No,Rural
+30/03/2024 21:16:41,CM ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Books,6-7,Yes,Playground,70,175,1-2,CGPA,Yes,Urban
+01/04/2024 09:28:44,Aryan gupta ,Male,B.Sc,SMK,80-90,80-90,Pass,,Pass,Pass,Pass,,Pass,Pass,7-8,4-5,Morning,Hostel room,Online,6-7,Yes,Playground,70,168,2-3,Skills,Yes,Rural
+01/04/2024 09:56:58,Abhishek Kumar ,Male,B.Sc,SMK,80-90,80-90,Pass,,Pass,Pass,Pass,,Pass,Pass,8-9,5-6,Morning,Library,Books,6-7,Yes,Home exercise ,58,164,3-4,Health,No,Urban
+01/04/2024 12:35:45,Priyanshu Agarwal ,Male,B.Sc,SMK,90-above,90- above,Pass,,Pass,Pass,Pass,,Pass,Pass,8-9,4-5,Night,Hostel room,Books,7-8,Yes,Playground,61,171,3-4,CGPA,Yes,Rural
+01/04/2024 13:15:35,Vivek Kumar Singh ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,4-5,Evening,Hostel room,Online,6-7,Yes,Cycling ,75,174,3-4,CGPA,Yes,Urban
+01/04/2024 13:41:55,Rudransh,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,7-above,Night,Hostel room,Books,7-8,No,None,70,165,1-2,CGPA,No,Rural
+01/04/2024 14:56:08,Madhesiya aditya,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,Pass,7-8,4-5,Evening,Library,Books,7-8,Yes,Playground,62,5.6feet,3-4,Health,No,Rural
+02/04/2024 09:15:15,Dravid Kumar ,Male,B.Sc,PMS,70-80,70-80,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,6-7,4-5,Night,others,YouTube ,7-8,Yes,Gym,61,183,2-3,CGPA,Yes,Urban
+02/04/2024 09:53:34,Prajjwal Kumar ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,4-5,Night,Hostel room,Professor's  Lecture,7-8,No,Playground,75,182,4-5,CGPA,No,Rural
+02/04/2024 10:58:38,Saurabh Tripathi ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Evening,common room,Books,7-8,No,Playground,50.5,172,3-4,CGPA,No,Rural
+02/04/2024 11:03:53,krishan kant mishra (sanchit) ,Male,B.A,EMS,70-80,70-80,Pass,,Pass,,Back Paper,,Pass,,7-8,4-5,Night,Hostel room,Online,7-8,No,no,61,174,3-4,CGPA,Yes,Urban
+02/04/2024 11:04:41,Sahil singh ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,4-5,Night,Hostel room,Online,7-8,No,No,52,166,3-4,Health,Yes,Urban
+02/04/2024 11:04:59,Arunansh Yadav,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,Pass,Back Paper,Pass,Pass,Pass,6-7,4-5,Morning,Hostel room,Books,8-9,Yes,Playground,63.5,181,2-3,CGPA,No,Rural
+02/04/2024 12:45:38,Rajkumar agrahari,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,5-6,Night,Library,Online,6-7,No,Open Gym,55,166,1-2,CGPA,No,Rural
+02/04/2024 14:42:53,Abhinav Shukla ,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,4-5,Evening,Hostel room,Online,7-8,No,Playground,69,165,3-4,Health,Yes,Urban
+02/04/2024 16:21:56,Rudransh Raghuvanshi ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Online,7-8,Yes,Open Gym,81,165,2-3,CGPA,Yes,Urban
+02/04/2024 19:33:54,VIDYA prakash yadav ,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Back Paper,Pass,,7-8,4-5,Evening,Hostel room,Books,6-7,No,No,48,170,3-4,Health,Yes,Rural
+02/04/2024 20:23:54,Ritik Chahal,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Back Paper,Pass,Pass,,6-7,4-5,Morning,Library,Online,5-6,Yes,Gym,69,172,1-2,Health,Yes,Urban
+04/04/2024 16:08:39,K.Raj Chandravanshi ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Online,6-7,No,None,49,161.2,1-2,Sleep,Yes,Urban
+04/04/2024 18:42:54,Kapil,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,4-5,Evening,Library,Online,7-8,No,Playground,65,6,4-5,CGPA,Yes,Rural
+05/04/2024 10:14:22,ROSHAN KUMAR,Male,B.Sc,PMS,70-80,60-70,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,4-5,Evening,common room,Online,6-7,No,Playground,72,180,2-3,Sleep,No,Rural
+05/04/2024 10:42:39,Anamika Kumari ,Prefer not to say,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Back Paper,Pass,,6-7,4-5,Evening,others,Online,7-8,No,Playground,56,153,1-2,CGPA,No,Rural
+05/04/2024 11:54:23,Priyanshu singh,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,1-2,Night,others,Online,7-8,No,No,77,176,1-2,CGPA,No,Urban
+05/04/2024 11:58:26,Nhi pata ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,2-3,Night,Hostel room,Books,7-8,No,No,60,182,4-5,Sleep,Yes,Rural
+05/04/2024 11:58:58,Aarsh Mishra ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Evening,Hostel room,Online,6-7,No,Playground,55,159,3-4,Sleep,Yes,Rural
+05/04/2024 12:05:23,ANKUR ARYA,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,4-5,Night,Hostel room,Books,7-8,Yes,Playground,69,175,4-5,Sleep,Yes,Urban
+05/04/2024 12:06:48,Aditi,Female,B.A,EMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,4-5,Evening,Hostel room,Online,7-8,Yes,Ground,47,170,4-5,CGPA,No,Urban
+05/04/2024 12:12:57,Aman Singh,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,4-5,Night,Hostel room,Online,6-7,Yes,Gym,58,165,3-4,Health,Yes,Urban
+05/04/2024 12:28:12,Ayush pratap sawan ,Male,B.Sc,PMS,70-80,70-80,,,Pass,,,,Pass,,6-7,5-6,Night,common room,Professor's  Lecture,5-6,Yes,Playground,41,171,3-4,CGPA,No,Urban
+05/04/2024 12:48:30,Aman saroj ,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,common room,Online,7-8,No,Open Gym,72,175,4-5,CGPA,No,Rural
+05/04/2024 13:26:24,Mohak Gupta,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Online,7-8,Yes,Gym,76.5,183,2-3,Health,No,Urban
+05/04/2024 13:26:28,Naveen Kumar ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Hostel room,Online,5-6,Yes,Gym,63 kg,168 cm,2-3,CGPA,Yes,Urban
+05/04/2024 15:54:59,Ayush Yadav,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,7-8,4-5,Night,others,Online,7-8,No,Gym,91,176,2-3,Health,No,Rural
+05/04/2024 21:39:49,Varsha Kumari ,Female,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Evening,common room,Online,6-7,Yes,Playground,70,160,3-4,Health,No,Rural
+07/04/2024 10:57:13,Pankaj Beck,Male,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,,Back Paper,Pass,Pass,,6-7,4-5,Night,Library,Online,7-8,Yes,Playground,58,174,3-4,CGPA,Yes,Rural
+08/04/2024 09:43:43,Anup Kumar Singh ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,5-6,Night,common room,Online,7-8,Yes,Gym,64,176,3-4,CGPA,No,Urban
+08/04/2024 10:10:14,Rahul Rai,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,1-2,Night,others,Online,5-6,Yes,Gym,72,178 cm,2-3,CGPA,No,Urban
+08/04/2024 10:23:40,Anusmita Sinha,Female,B.Sc,PMS,90-above,70-80,Pass,Pass,Pass,,Back Paper,Pass,Pass,,6-7,4-5,Night,Hostel room,Online,5-6,No,Dont exercise,54,150,2-3,CGPA,No,Urban
+08/04/2024 14:11:47,Ritish kumar sahu,Male,B.Sc,SMK,80-90,80-90,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,6-7,4-5,Night,Hostel room,Online,5-6,Yes,Gym,70,170,1-2,Sleep,No,Rural
+08/04/2024 16:13:08,Vindeshwari ,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,7-above,Night,Hostel room,Online,5-6,Yes,Open exercises at home ,61,165,2-3,CGPA,No,Rural
+08/04/2024 16:24:34,Simran kumari ,Female,B.Sc,SMK,90-above,90- above,Pass,,Pass,Pass,Pass,,Pass,Pass,9-10,4-5,Evening,Hostel room,Books,7-8,No,Playground,54,161 cm,3-4,Health,Yes,Rural
+08/04/2024 16:26:50,Alok Raj ,Male,B.Sc,SMK,90-above,90- above,Pass,,Pass,Pass,Pass,,Pass,Pass,8-9,4-5,Night,Hostel room,Books,7-8,No,No exercise ,62,174cm,2-3,Co- curricular ,Yes,Urban
+08/04/2024 16:35:49,Afzal Ansari ,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,4-5,Night,Library,Online,7-8,No,Playground,60,174,3-4,Health,No,Rural
+08/04/2024 21:45:57,Amritansh Mishra ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,7-8,4-5,Night,Library,Online,7-8,Yes,Playground,65,170,2-3,CGPA,Yes,Urban
+09/04/2024 08:25:22,Rahul Yadav,Male,B.A,EMS,80-90,60-70,Pass,,Pass,,Back Paper,,Pass,,7-8,4-5,Evening,Library,Books,6-7,No,Playground,75,175,3-4,CGPA,No,Rural
+09/04/2024 10:16:20,Shashwat Anand ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,4-5,Night,Hostel room,Books,5-6,Yes,Playground,63,184,3-4,Health,Yes,Rural
+10/04/2024 20:21:04,Rudransh Raghuvanshi ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,5-6,Night,Hostel room,Books,7-8,Yes,Playground,83 kg,165,3-4,Health,,
+11/04/2024 12:17:36,Noor,Female,B.Sc,SMK,80-90,80-90,Pass,Pass,,Pass,Pass,Pass,,Pass,8-9,5-6,Night,others,Professor's  Lecture,6-7,Yes,Playground,49,156,2-3,CGPA,No,Urban
+11/04/2024 16:11:35,Anil,Male,B.Sc,EMS,80-90,80-90,Pass,Back paper,Pass,,Back Paper,Back Paper,Pass,,7-8,4-5,Evening,Library,Online,7-8,Yes,Gym,63,170,3-4,Health,Yes,Urban
+11/04/2024 16:13:43,Rajat,Male,B.Sc,PMS,80-90,80-90,Back paper,Pass,Pass,,Back Paper,Back Paper,Pass,,7-8,4-5,Night,Library,Online,7-8,Yes,Gym,68,174,2-3,Health,Yes,Rural
+11/04/2024 16:16:15,Radhika,Female,B.Sc,PMS,80-90,80-90,Pass,Back paper,Pass,,Back Paper,Pass,Pass,,7-8,5-6,Night,Library,Books,6-7,No,No,51,154,3-4,Health,No,Urban
+11/04/2024 17:11:35,Avishek kumar sah,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,4-5,Night,Hostel room,Books,7-8,No,Playground,78,181,3-4,CGPA,Yes,Urban
+11/04/2024 20:28:32,Vikram Singh ,Male,B.Sc,PMS,70-80,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,6-7,Night,Library,Books,7-8,No,Open Gym,61,181,4-5,CGPA,Yes,Rural
+11/04/2024 20:30:08,Aryan gupta ,Male,B.Sc,SMK,80-90,80-90,Pass,,Pass,Pass,Pass,,Pass,Pass,7-8,5-6,Morning,Hostel room,Online,6-7,Yes,Playground,70,169,2-3,Skills,Yes,Urban
+11/04/2024 20:32:48,Harshit Tiwari ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,9-10,4-5,Evening,Hostel room,Books,6-7,No,Playground,77,180,4-5,Health,Yes,Urban
+11/04/2024 20:35:43,Aman Gandhi,Male,B.Sc,PMS,90-above,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,7-8,5-6,Evening,Hostel room,Online,7-8,No,Yoga,90,168,3-4,Health,Yes,Urban
+11/04/2024 20:36:30,Vinay pratap,Male,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,6-7,1-2,Night,Hostel room,Online,6-7,Yes,Playground,50,165,1-2,CGPA,Yes,Rural
+11/04/2024 21:05:16,Harshit Tiwari,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,9-10,4-5,Evening,Hostel room,Books,6-7,No,Playground,77,180,4-5,Health,Yes,Urban
+12/04/2024 13:01:04,Yashraj Singh,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,4-5,Evening,Hostel room,Online,7-8,No,Playground,70,172.72,3-4,Health,Yes,Rural
+12/04/2024 18:05:26,SHIKHA MAURYA,Female,B.Sc,SMK,90-above,90- above,Pass,,Pass,Pass,Pass,,Pass,Pass,7-8,5-6,Evening,others,Online,6-7,Yes,Indoor yoga,40,150,3-4,Skill,No,Rural
+12/04/2024 18:07:16,Kavita,Female,B.Sc,PMS,80-90,70-80,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,7-8,7-above,Night,Hostel room,Online,7-8,No,Bicycling,45,155,3-4,Bhaiiiii edhar kuchh bhi thik nhi hai pr option k according CGPA,Yes,Rural
+12/04/2024 18:30:23,Sejal,Female,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,8-9,4-5,Night,Hostel room,Books,5-6,Yes,Playground,48,165.1,4-5,Sub kuch..,Yes,Urban
+16/04/2024 21:03:21,Neetu,Female,B.Sc,PMS,80-90,80-90,Back paper,Pass,Pass,,Back Paper,Back Paper,Pass,,6-7,4-5,Night,Library,Online,7-8,No,No,54,153,3-4,Health,No,Rural
+16/04/2024 21:04:59,Sumit,Male,B.Sc,SMK,80-90,70-80,Pass,Back paper,Pass,,Back Paper,Back Paper,Pass,,6-7,5-6,Night,Hostel room,Books,6-7,Yes,Playground,68,170,3-4,CGPA,Yes,Rural
+16/04/2024 21:06:09,Nikita,Female,B.Sc,PMS,70-80,80-90,Pass,Back paper,Pass,,Pass,Pass,Pass,,7-8,6-7,Evening,Hostel room,Online,7-8,Yes,Playground,53,160,3-4,Health,Yes,Urban
+16/04/2024 21:07:19,Pushpendra ,Male,B.Sc,SMK,80-90,80-90,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,5-6,Night,Hostel room,Online,7-8,No,No,48,151,3-4,Health,Yes,Urban
+16/04/2024 21:08:44,Neha,Female,B.Sc,PMS,80-90,80-90,Pass,Pass,Pass,,Back Paper,Back Paper,Pass,,8-9,7-above,Night,Library,Books,6-7,Yes,Playground,50,158,2-3,CGPA,No,Urban
+16/04/2024 21:10:17,Manshi Singh,Female,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,7-above,Evening,Library,Online,7-8,No,No,54,160,3-4,Health,Yes,Urban
+16/04/2024 21:11:31,Manish,Male,B.Sc,PMS,80-90,90- above,Back paper,Back paper,Pass,,Back Paper,Pass,Pass,,8-9,7-above,Night,Library,Online,7-8,Yes,Playground,67,168,3-4,CGPA,Yes,Rural
+16/04/2024 21:12:46,Sandeep ,Male,B.Sc,SMK,80-90,80-90,Pass,,Pass,Pass,Pass,,Pass,Pass,8-9,7-above,Night,Hostel room,Online,7-8,Yes,Gym,61,170,3-4,CGPA,Yes,Urban
+16/04/2024 21:14:11,Rohit Singh,Male,B.Sc,PMS,80-90,70-80,Back paper,,Pass,Pass,Pass,,Pass,Pass,7-8,7-above,Evening,Library,Online,6-7,Yes,Open Gym,65,176,2-3,CGPA,No,Rural
+16/04/2024 21:15:42,Ashutosh tripathi ,Male,B.Sc,PMS,90-above,90- above,Pass,Pass,Pass,,Pass,Pass,Pass,,8-9,6-7,Night,Hostel room,Online,7-8,Yes,Playground,67,178,3-4,Health,Yes,Urban
+16/04/2024 21:17:06,Ankita Gupta,Female,B.Sc,PMS,80-90,80-90,Back paper,Pass,Pass,,Pass,Pass,Pass,,8-9,5-6,Evening,Library,Online,6-7,No,No,53,153,2-3,CGPA,Yes,Rural
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,20,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,13,21,11,3,48,,,,,,,,,
+,,,,,,,,,,,,,,,2,8,5,0,15,,,,,,,,,
+,,,,,,,,,,,,,,,2,2,3,0,7,,,,,,,,,
+,,,,,,,,,,,,,,,3,3,4,0,10,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,20,34,23,3,80,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,80,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Gender,Count,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Male,65,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Female,14,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,79,,,,,,,,,,,,,,,,,,,,,,,,,
